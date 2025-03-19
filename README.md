@@ -13,8 +13,8 @@ This file contains utility functions used for data quality checks and data clean
 - Output results in a format that can be integrated into the HTML report.  
 
 
-### 2. **`html`**  
-This folder contains the HTML report generated from the data quality checks and data cleansing process. The report includes:  
+### 2. **`Data Challenge.ipynb`**  
+This folder contains the Jupyter Notebook report generated from the data quality checks and data cleansing process. The report includes:  
 - **Data Quality Overview**: Summary of missing values, duplicates, and inconsistencies.  
 - **Detailed Findings**: Breakdown of issues in the `product`, `transaction`, and `user` tables.  
 - **SQL Queries**: SQL Queries to answer key business questions (with additional supporting files attached for reference).  
