@@ -36,3 +36,6 @@ This document is a written email to stakeholders, summarizing the results of the
 - **Interesting Trend**: CVS's dominance among long-term Fetch users.  
 - **Actionable Insights**: Recommendations for optimizing brand partnerships and user engagement.  
 - **Request for Action**: Clarification on data collection processes and support for data cleaning.  
+
+---
+Thank you for reviewing our analysis. Looking forward to your feedback and guidance.
